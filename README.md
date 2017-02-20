@@ -1,5 +1,7 @@
 # Protocolo-para-transferencia-de-arquivos
 Projeto de um protocolo de transferência de arquivos desenvolvido durante a primeira semana da matéria de Projeto de Protocolos 
+
+Palavras-chave: Protocolo; Transferência de arquivos; C++, sockets; 
 **********************************************************************************************************************************
 
 PTC-2017-1 Projeto de protocolos - Professor Marcelo Maia Sobral
